@@ -3,4 +3,5 @@ Rails.application.routes.draw do
 
   get "ask", to: "questions#ask"
   get "answer", to: "questions#answer"
+  # making comment just to push for github
 end
